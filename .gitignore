@@ -1,0 +1,48 @@
+# ---- Vivado generated files (rebuild from vivado/build.tcl or the report) ----
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+*.srcs/
+*.xpr
+*.jou
+*.log
+*.str
+.Xil/
+vivado/rk4_zybo/
+vivado/*.rpt
+# ---- Vitis workspace ----
+vitis_ws*/
+.metadata/
+*.elf
+# ---- Simulation outputs ----
+*.vvp
+*.vcd
+*.wdb
+xsim.dir/
+# ---- LaTeX build files ----
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.glg
+report/*.glo
+report/*.gls
+report/*.idx
+report/*.ilg
+report/*.ind
+report/*.lof
+report/*.lot
+report/*.lol
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.bib
+report/*.pdf
+# ---- OS / editor ----
+.DS_Store
+.vscode/
+__pycache__/
